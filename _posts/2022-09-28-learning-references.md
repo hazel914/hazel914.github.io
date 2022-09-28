@@ -1,5 +1,5 @@
 ---
-title: learning reference
+title: learning references
 published: true
 ---
 
